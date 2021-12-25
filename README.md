@@ -10,9 +10,10 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 * Medium: [medium.com/@adaptivenetworklab][6]
 * DockerHub: [hub.docker.com/u/adaptivenetlab][7]
 * GitLab : [gitlab.com/adaptivenetlab][8]
-* GitHub Org : [https://github.com/adaptivenetworklab][9]
-* Line : [line.me/ti/p/~@qka3787h][10]
-* Email : [support@adaptivenetworklab.org][11]
+* GitHub : [github.com/adaptivenetlab][9]
+* GitHub Org : [github.com/adaptivenetworklab][10]
+* Line : [line.me/ti/p/~@qka3787h][11]
+* Email : [support@adaptivenetworklab.org][12]
 
 [1]: https://adaptivenetworklab.org
 [2]: https://blog.adaptivenetworklab.org
@@ -22,6 +23,7 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 [6]: https://medium.com/@adaptivenetworklab/about
 [7]: https://hub.docker.com/u/adaptivenetlab
 [8]: https://gitlab.com/adaptivenetlab
-[9]: https://github.com/adaptivenetworklab
-[10]: https://line.me/ti/p/~@qka3787h
-[11]: support@adaptivenetworklab.org
+[9]: https://github.com/adaptivenetlab
+[10]: https://github.com/adaptivenetworklab
+[11]: https://line.me/ti/p/~@qka3787h
+[12]: support@adaptivenetworklab.org
