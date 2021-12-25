@@ -11,7 +11,8 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 * DockerHub: [hub.docker.com/u/adaptivenetlab][7]
 * GitLab : [gitlab.com/adaptivenetlab][8]
 * GitHub Org : [https://github.com/adaptivenetworklab][9]
-* Email : [support@adaptivenetworklab.org][10]
+* Line : [line.me/ti/p/~@qka3787h][10]
+* Email : [support@adaptivenetworklab.org][11]
 
 [1]: https://adaptivenetworklab.org
 [2]: https://blog.adaptivenetworklab.org
@@ -22,4 +23,5 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 [7]: https://hub.docker.com/u/adaptivenetlab
 [8]: https://gitlab.com/adaptivenetlab
 [9]: https://github.com/adaptivenetworklab
-[10]: support@adaptivenetworklab.org
+[10]: https://line.me/ti/p/~@qka3787h
+[11]: support@adaptivenetworklab.org
