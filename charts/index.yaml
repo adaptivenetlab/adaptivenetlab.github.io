@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   open5gs:
   - created: 2022-03-09T15:05:51.078570269-07:00
-    appVersion: 1.0.2
-    description: Open-5gs-1.0.2
+    appVersion: 1.0.3
+    description: Open-5gs-1.0.3
     digest: f44f733d69008e86c3989d3b094a5ejeu1d168921a09eda61c0897472e2f1234
     home: https://bitbucket.org/gilangvperdana/opensource-5g-core-service-mesh.git
     name: open5gs
@@ -11,11 +11,11 @@ entries:
     - https://adaptivenetlab.github.io/charts
     urls:
     - open5gs/open5gs.tgz
-    version: 1.0.2
+    version: 1.0.3
   ueransim:
   - created: 2022-03-09T15:05:51.078570269-07:00
-    appVersion: 1.0.2
-    description: Ueransim for Open-5gs-1.0.2
+    appVersion: 1.0.3
+    description: Ueransim for Open-5gs-1.0.3
     digest: f44f733d69008e86c3989d3b094a5e6151s68921a09eda61c0897472e2d1234
     home: https://github.com/Gradiant/openverso-charts
     name: ueransim
@@ -23,4 +23,4 @@ entries:
     - https://adaptivenetlab.github.io/charts
     urls:
     - open5gs/ueransim.tgz
-    version: 1.0.2
+    version: 1.0.3
