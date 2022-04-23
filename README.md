@@ -10,7 +10,7 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 * Medium: [medium.com/@adaptivenetworklab][6]
 * DockerHub: [hub.docker.com/u/adaptivenetlab][7]
 * Helm Repo: [adaptivenetlab.github.io/charts][8]
-* Artifact Hub" [https://artifacthub.io/packages/search?ts_query_web=adaptivenetlab][9]
+* Artifact Hub: [https://artifacthub.io/packages/search?ts_query_web=adaptivenetlab][9]
 * GitLab : [gitlab.com/adaptivenetlab][10]
 * GitHub : [github.com/adaptivenetlab][11]
 * GitHub Org : [github.com/adaptivenetworklab][12]
