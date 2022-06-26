@@ -9,7 +9,7 @@ A Landing Page that is intended for the purposes of mediators from the Laborator
 * Youtube: [youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q][5]
 * Medium: [medium.com/@adaptivenetworklab][6]
 * DockerHub: [hub.docker.com/u/adaptivenetlab][7]
-* Helm Repo: [adaptivenetlab.github.io/charts][8]
+* Helm Repository: [adaptivenetlab.github.io/charts][8]
 * Artifact Hub: [artifacthub.io/packages/search?ts_query_web=adaptivenetlab][9]
 * GitLab : [gitlab.com/adaptivenetlab][10]
 * GitHub : [github.com/adaptivenetlab][11]
